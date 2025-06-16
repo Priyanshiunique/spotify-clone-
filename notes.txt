@@ -1,0 +1,18 @@
+./  ====> curr dir
+assets/  ====> subdir
+
+
+input of type range will have property of step  = "1"
+
+
+for img ---> we set height
+for icon -> we set font-size
+
+
+appearance css MDN  
+
+pseudo elements --> like        -webkit-...
+
+track __________
+thumb  o
+input range = track + thumb 
