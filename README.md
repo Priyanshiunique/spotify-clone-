@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Music for Everyone  (HTML & CSS Only)  spotify
+=======
+# Music for Everyone  (HTML & CSS Only)
+>>>>>>> 82d715cefc1a735e5238f907b90f9b3914f4b8ed
 
 A visually accurate, responsive clone of the Spotify Web Player built entirely with **HTML** and **CSS**.  
 This project demonstrates modern web design techniques and attention to UI/UX detail.
@@ -32,9 +36,7 @@ This project demonstrates modern web design techniques and attention to UI/UX de
 2. **Navigate to the project folder:** d spotify
 3. **Open `index.html`** in your browser to view the project.
 
-
 # Project Structure
-
 <img width="260" alt="image" src="https://github.com/user-attachments/assets/6abd32cb-69bd-404a-afef-ef8bdb913244" />
 
 
