@@ -1,3 +1,7 @@
+/// for concept ---> learning of css styling only 
+// not related to project functionality 
+//only for learner (beginner)
+
 ./  ====> curr dir
 assets/  ====> subdir
 
@@ -16,3 +20,61 @@ pseudo elements --> like        -webkit-...
 track __________
 thumb  o
 input range = track + thumb 
+
+
+homework --->> to add  album and controls
+
+// add favicon and icon to your website
+
+
+
+
+
+.music-player-div1{
+  
+  /* width: 25%; */
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  /* padding-right: 1rem; */
+
+
+}
+
+
+.album-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+
+
+
+.music-player-text {
+  font-weight: 500;
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+.music-player-text:hover {
+  text-decoration: underline;
+  opacity: 1;
+}
+
+.album-like {
+  width: 20px;
+  height: 20px;
+  opacity: 0.7;
+}
+
+.album-like:hover {
+  opacity: 1;
+}
+
+.album-box {
+  width: 24px;
+  height: 28px;
+}
