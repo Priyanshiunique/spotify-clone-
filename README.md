@@ -14,9 +14,10 @@ This project demonstrates modern web design techniques and attention to UI/UX de
 ## Screenshots
 
 <img width="959" alt="spotifywebplayer_read" src="https://github.com/user-attachments/assets/88420246-019f-4286-8879-fdec3bf6cbf7" />
+
+
 ### Full Screen View
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/221ea3f3-ff00-4106-bd2e-649db19773e8" />
-
 
 
 ## Getting Started
