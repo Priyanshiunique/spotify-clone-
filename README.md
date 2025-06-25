@@ -24,20 +24,17 @@ This project demonstrates modern web design techniques and attention to UI/UX de
 
 ### How to Use
 
-1. **Clone this repository:**
-2. git clone (https://github.com/Priyanshiunique/spotify-clone-)
-3. 
-4.  **Navigate to the project folder:**
-5.  cd spotify
-
-6. **Open `index.html`** in your browser to view the project.
+1. **Clone this repository:**   git clone (https://github.com/Priyanshiunique/spotify-clone-)
+2. **Navigate to the project folder:** d spotify
+3. **Open `index.html`** in your browser to view the project.
 
 ## Project Structure
 spotify/
-├── assets/ # Images and icons
-├── assets2/ # icons for music player footer
-├── index.html # Main HTML file
-└── style.css # CSS styles
+├── assets/      # Images and general icons
+├── assets2/     # Icons for music player footer
+├── index.html   # Main HTML file
+└── style.css    # CSS styles
+
 
 ## Skills Demonstrated
 
