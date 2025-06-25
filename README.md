@@ -1,6 +1,4 @@
 
-# Music for Everyone  (HTML & CSS Only)  spotify
-
 # Music for Everyone  (HTML & CSS Only)
 
 
