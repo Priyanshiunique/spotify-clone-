@@ -15,6 +15,9 @@ This project demonstrates modern web design techniques and attention to UI/UX de
 
 <img width="959" alt="spotifywebplayer_read" src="https://github.com/user-attachments/assets/88420246-019f-4286-8879-fdec3bf6cbf7" />
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/221ea3f3-ff00-4106-bd2e-649db19773e8" />
+
+
 
 ## Getting Started
 
@@ -28,12 +31,8 @@ This project demonstrates modern web design techniques and attention to UI/UX de
 2. **Navigate to the project folder:** d spotify
 3. **Open `index.html`** in your browser to view the project.
 
-## Project Structure
-spotify/
-├── assets/      # Images and general icons
-├── assets2/     # Icons for music player footer
-├── index.html   # Main HTML file
-└── style.css    # CSS styles
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/6abd32cb-69bd-404a-afef-ef8bdb913244" />
+
 
 
 ## Skills Demonstrated
