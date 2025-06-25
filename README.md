@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Music for Everyone  (HTML & CSS Only)  spotify
-=======
+
 # Music for Everyone  (HTML & CSS Only)
->>>>>>> 82d715cefc1a735e5238f907b90f9b3914f4b8ed
+
 
 A visually accurate, responsive clone of the Spotify Web Player built entirely with **HTML** and **CSS**.  
 This project demonstrates modern web design techniques and attention to UI/UX detail.
