@@ -32,6 +32,7 @@ This project demonstrates modern web design techniques and attention to UI/UX de
 2. **Navigate to the project folder:** d spotify
 3. **Open `index.html`** in your browser to view the project.
 
+
 # Project Structure
 
 <img width="260" alt="image" src="https://github.com/user-attachments/assets/6abd32cb-69bd-404a-afef-ef8bdb913244" />
